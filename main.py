@@ -1,4 +1,4 @@
-import cv2
+import cv3
 import winsound
 # url="http://192.168.137.247:8080/video"
 
